@@ -3,11 +3,9 @@ title: "Age encoded adversarial learning for pediatric CT segmentation"
 collection: publications
 category: manuscripts
 permalink: /publication/Age Encoded Adversarial Learning for Pediatric CT Segmentation
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-03-27
 venue: 'Bioengineering'
-slidesurl: '[http://academicpages.github.io/files/slides1.pdf](https://www.mdpi.com/2306-5354/11/4/319)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.mdpi.com/2306-5354/11/4/319'
 citation: 'Gheshlaghi, Saba Heidari, Chi Nok Enoch Kan, Taly Gilat Schmidt, and Dong Hye Ye. "Age encoded adversarial learning for pediatric CT segmentation." Bioengineering 11, no. 4 (2024): 319.'
 ---
 
