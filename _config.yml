@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Saba Heidari Gheshlaghi"
+title                    : "Saba Heidari"
 title_separator          : "-"
 name                     : &name "Saba Heidari"
 description              : &description "PhD Candidate in Computer Science"
@@ -22,7 +22,7 @@ repository               : "saba-heidari/saba-heidari.github.io/"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Saba Heidari"
+  name             : "Saba Heidari Gheshlaghi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Computer Science with over 7 years of experience in machine vision and machine learning for medical imaging, specializing in generative models, adversarial robustness, classification, and segmentation. "
   location         : "Milwaukee, WI"
