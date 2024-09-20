@@ -1,6 +1,6 @@
 
 ---
-permalink: /others/
+permalink: /Others/
 title: "Others"
 author_profile: true
  
