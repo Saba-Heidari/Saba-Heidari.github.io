@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome
+I am a PhD candidate at Marquette University.
