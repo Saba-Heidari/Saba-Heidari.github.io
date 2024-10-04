@@ -5,4 +5,4 @@ author_profile: true
  
 ---
 {% include base_path %}
-#Selected Courses: Advanced Machine Learning, Computer Vision, and Image Processing
+
