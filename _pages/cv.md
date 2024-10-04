@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-<embed src="{{ site.baseurl }}/files/Saba_Resume.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/Saba_Resume.pdf" width="800" height="900" type='application/pdf'> 
